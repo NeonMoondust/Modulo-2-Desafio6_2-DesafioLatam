@@ -1,0 +1,13 @@
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+img {
+    width: 10%;
+}
+input{
+    margin-left: 1rem;
+}
+button{
+    margin-left: 1rem;
+}
